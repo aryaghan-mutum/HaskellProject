@@ -8,6 +8,9 @@
 - Compile: `ghc -o test test.hs`
 - Run: `./test`
 
+##### Set Prompt:
+- `:set prompt "myPrompt>"`
+
 
 
 

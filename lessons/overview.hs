@@ -88,7 +88,7 @@ nums = [2,4,6,8]
 
 
 --------------------------------------------------------------------------
-
+{-
 roots :: (Float, Float, Float) -> (Float, Float)  
 roots (a,b,c) = (x1, x2) where 
    x1 = e + sqrt d / (2 * a) 
@@ -98,11 +98,9 @@ roots (a,b,c) = (x1, x2) where
 main = do 
    putStrLn "The roots of our Polynomial equation are:" 
    print (roots(1,-8,6))
+-}
 
-
-
-
-
+main = putStrLn "dsfdsfsd"
 
 
 

@@ -11,6 +11,11 @@
 ##### Set Prompt:
 - `:set prompt "myPrompt>"`
 
+##### Compilation output	 	 
+.hi	Interface file; contains information about exported symbols	 
+.hc	intermediate C files	 
+.x_o	contains object files 
+.x_hi	contains interface files
 
 
 

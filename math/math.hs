@@ -23,6 +23,6 @@ sqrRoot n = aux n
       | x*x > n = aux (x - 1)
       | otherwise = x
 
-pythagorean :: Float -> Float -> Float 
-pythagorean x y = 
-	sqrRoot x*x + y*y 
+-- pythagorean :: Float -> Float -> Float 
+-- pythagorean x y = 
+-- 	sqrRoot x*x + y*y 
